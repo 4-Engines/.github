@@ -1,7 +1,7 @@
 # 4Engines
 
 <p align="center">
-<img width="400" src="../4engines.png">
+<img width="400" src="./4engines.png">
 </p>
  
 <p align="center">
